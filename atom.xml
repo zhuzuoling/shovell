@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-08-15T23:46:41+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://zhuzuoling.github.io//github/atom.xml" rel="self"/>
+  <link href="http://zhuzuoling.github.io//github/"/>
+  <updated>2014-08-16T00:21:51+08:00</updated>
+  <id>http://zhuzuoling.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
-    <link href="http://yoursite.com/blog/2014/08/15/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <link href="http://zhuzuoling.github.io//github/blog/2014/08/15/zombie-ninjas-attack-a-survivors-retrospective/"/>
     <updated>2014-08-15T23:10:50+08:00</updated>
-    <id>http://yoursite.com/blog/2014/08/15/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <id>http://zhuzuoling.github.io//github/blog/2014/08/15/zombie-ninjas-attack-a-survivors-retrospective</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

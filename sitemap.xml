@@ -3,22 +3,22 @@
   
   
   <url>
-    <loc>http://yoursite.com/blog/2014/08/15/zombie-ninjas-attack-a-survivors-retrospective/</loc>
+    <loc>http://zhuzuoling.github.io//github/blog/2014/08/15/zombie-ninjas-attack-a-survivors-retrospective/</loc>
     <lastmod>2014-08-15T23:10:50+08:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
-    <loc>http://yoursite.com/blog/archives/</loc>
-    <lastmod>2014-08-15T23:46:41+08:00</lastmod>
+    <loc>http://zhuzuoling.github.io//github/blog/archives/</loc>
+    <lastmod>2014-08-16T00:21:51+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/</loc>
-    <lastmod>2014-08-15T23:46:41+08:00</lastmod>
+    <loc>http://zhuzuoling.github.io//github/</loc>
+    <lastmod>2014-08-16T00:21:51+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
